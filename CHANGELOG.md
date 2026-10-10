@@ -22,9 +22,13 @@ Follows [Keep a Changelog](https://keepachangelog.com/).
   column allow-list); CI runs ruff, pytest, a reproducibility check and the
   notebook.
 
+### Fixed
+- CI: plain `pytest` could not import `src`; set pytest's `pythonpath` to the
+  repository root. Updated `actions/checkout` to v5 and `actions/setup-python`
+  to v6 (Node 24). CI now passes on GitHub (Python 3.11).
+
 ### Not done yet
 - Kaggle notebook not published (needs the owner's account).
-- CI has not run on GitHub yet (repository not pushed).
 
 ## [0.1.0] — Scaffold
 ### Added

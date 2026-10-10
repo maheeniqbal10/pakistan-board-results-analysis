@@ -1,6 +1,6 @@
 # PROJECT.md — Pakistan Board Exam Results: A Data Analysis
 
-> **Status:** Analysis complete; awaiting owner review, first push and Kaggle publication
+> **Status:** Analysis complete; published on GitHub with CI passing; Kaggle publication pending
 > **Owner:** `maheeniqbal10`
 > **Author:** Maheen Iqbal
 > **Repo:** `pakistan-board-results-analysis`
@@ -84,8 +84,7 @@ years/boards are shown as missing and mentioned in Limitations.
       (charts done; link after publication)
 - [x] `docs/CODE_WALKTHROUGH.md` — plain-language explanation of every file
       (see §7)
-- [ ] Tests for the cleaning functions, CI green (tests pass locally; CI not
-      yet run on GitHub)
+- [x] Tests for the cleaning functions, CI green
 
 ## 5. Non-goals
 

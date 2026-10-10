@@ -46,7 +46,7 @@ Work top to bottom. Commit after each phase.
 ## Phase 8 — CI + README
 - [x] `.github/workflows/ci.yml`: ruff + pytest + reproducibility + notebook
 - [x] README: questions, data, method, findings with charts, limitations, how to run
-- [ ] CI confirmed green on GitHub (needs a push)
+- [x] CI confirmed green on GitHub
 - [ ] `CHANGELOG.md` v1.0.0 (after the owner's review and Kaggle publication)
 
 ## Phase 9 — Kaggle (owner step)
