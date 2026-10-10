@@ -29,3 +29,5 @@ select = ["E", "F", "I", "B", "UP"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+# Make `import src` work when running plain `pytest` from the repository root.
+pythonpath = ["."]
