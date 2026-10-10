@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+kaggle.json
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local assistant instructions (kept out of the public repo)
+CLAUDE.md
+.claude/
+
+# Temporary downloads and scratch files. Large source PDFs are fetched by
+# src/collect.py into data/raw/_downloads/ and are not committed; see
+# data/SOURCES.md for why.
+data/raw/_downloads/
+tmp/
+*.tmp

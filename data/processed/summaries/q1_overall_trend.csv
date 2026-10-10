@@ -1,0 +1,27 @@
+level,year,population,appeared,passed,pass_rate,pass_rate_method,assessment
+HSSC,2013,All candidates,,,72.30,published_only,examination
+HSSC,2014,All candidates,,,70.65,published_only,examination
+HSSC,2015,All candidates,56396,41456,73.51,computed_from_counts,examination
+HSSC,2016,All candidates,58032,43134,74.33,computed_from_counts,examination
+HSSC,2017,All candidates,57179,42463,74.26,computed_from_counts,examination
+HSSC,2018,All candidates,59568,46112,77.41,computed_from_counts,examination
+HSSC,2020,All candidates,71482,66635,93.22,computed_from_counts,no_exam_promotion_policy
+HSSC,2015,Regular candidates,43099,34707,80.53,computed_from_counts,examination
+HSSC,2016,Regular candidates,45247,36431,80.52,computed_from_counts,examination
+HSSC,2017,Regular candidates,45874,36348,79.23,computed_from_counts,examination
+HSSC,2018,Regular candidates,47837,39449,82.47,computed_from_counts,examination
+HSSC,2020,Regular candidates,59512,57115,95.97,computed_from_counts,no_exam_promotion_policy
+SSC,2013,All candidates,,,77.67,published_only,examination
+SSC,2014,All candidates,,,77.25,published_only,examination
+SSC,2015,All candidates,78915,60517,76.69,computed_from_counts,examination
+SSC,2016,All candidates,82894,65890,79.49,computed_from_counts,examination
+SSC,2017,All candidates,85140,70969,83.36,computed_from_counts,examination
+SSC,2018,All candidates,89443,74829,83.66,computed_from_counts,examination
+SSC,2019,All candidates,87114,73203,84.03,computed_from_counts,examination
+SSC,2020,All candidates,93304,85151,91.26,computed_from_counts,no_exam_promotion_policy
+SSC,2015,Regular candidates,57766,52623,91.10,computed_from_counts,examination
+SSC,2016,Regular candidates,63711,58081,91.16,computed_from_counts,examination
+SSC,2017,Regular candidates,68830,63199,91.82,computed_from_counts,examination
+SSC,2018,Regular candidates,73815,67656,91.66,computed_from_counts,examination
+SSC,2019,Regular candidates,71977,66126,91.87,computed_from_counts,examination
+SSC,2020,Regular candidates,78005,76191,97.67,computed_from_counts,no_exam_promotion_policy

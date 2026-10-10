@@ -1,0 +1,31 @@
+[project]
+name = "pakistan-board-results-analysis"
+version = "0.1.0"
+description = "Descriptive analysis of public, aggregate FBISE (Federal Board) SSC/HSSC exam results."
+authors = [{ name = "Maheen Iqbal" }]
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+# Keep in sync with requirements.txt (which also lists the dev tools).
+dependencies = [
+    "pandas>=2.2",
+    "matplotlib>=3.9",
+    "pdfplumber>=0.11",
+    "requests>=2.32",
+]
+
+[project.optional-dependencies]
+dev = ["jupyter>=1.0", "pytest>=8.2", "ruff>=0.5"]
+
+[project.urls]
+Repository = "https://github.com/maheeniqbal10/pakistan-board-results-analysis"
+
+[tool.ruff]
+line-length = 100
+extend-include = ["*.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

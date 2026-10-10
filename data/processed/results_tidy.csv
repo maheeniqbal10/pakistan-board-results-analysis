@@ -1,0 +1,291 @@
+board,level,part,year,candidate_type,group,gender,assessment,enrolled,absent,appeared,result_later,ufm,fail,passed,pass_rate,pass_rate_published,pass_rate_method,source_id,source_page
+FBISE,HSSC,II,2013,All,All,All,examination,,,,,,,,72.3000,72.3000,published_only,fbise_result_statistics_2013_2017,1
+FBISE,HSSC,II,2014,All,All,All,examination,,,,,,,,70.6500,70.6500,published_only,fbise_result_statistics_2013_2017,1
+FBISE,HSSC,II,2015,Regular,Commerce,Male,examination,2712,30,2682,1,6,986,1690,63.0127,63.0100,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Commerce,Female,examination,1433,5,1428,0,0,213,1215,85.0840,85.0800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Commerce,All,examination,4145,35,4110,1,6,1199,2905,70.6813,70.6800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,General Science,Male,examination,5398,28,5370,15,1,1975,3394,63.2030,63.2000,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,General Science,Female,examination,4377,19,4358,4,1,768,3589,82.3543,82.3500,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,General Science,All,examination,9775,47,9728,19,2,2743,6983,71.7825,71.7800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Humanities,Male,examination,1204,9,1195,0,0,542,653,54.6444,54.6400,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Humanities,Female,examination,6063,25,6038,1,1,1243,4794,79.3972,79.4000,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Humanities,All,examination,7267,34,7233,1,1,1785,5447,75.3076,75.3100,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Medical Technology,Male,examination,164,1,163,0,0,50,113,69.3252,69.3300,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Medical Technology,Female,examination,17,0,17,0,0,1,16,94.1176,94.1200,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Medical Technology,All,examination,181,1,180,0,0,51,129,71.6667,71.6700,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Pre-Engineering,Male,examination,9090,29,9061,4,8,1316,7737,85.3879,85.3900,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Pre-Engineering,Female,examination,2901,14,2887,1,0,284,2603,90.1628,90.1600,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Pre-Engineering,All,examination,11991,43,11948,5,8,1600,10340,86.5417,86.5400,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Pre-Medical,Male,examination,2384,14,2370,2,3,317,2050,86.4979,86.5000,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Pre-Medical,Female,examination,7557,27,7530,4,0,677,6853,91.0093,91.0100,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,Pre-Medical,All,examination,9941,41,9900,6,3,994,8903,89.9293,89.9300,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Regular,All,All,examination,43300,201,43099,32,20,8372,34707,80.5286,80.5300,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Commerce,Male,examination,1409,61,1348,2,3,894,451,33.4570,33.4600,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Commerce,Female,examination,300,7,293,1,0,152,141,48.1229,48.1200,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Commerce,All,examination,1709,68,1641,3,3,1046,592,36.0756,36.0800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,General Science,Male,examination,2031,92,1939,2,1,1049,889,45.8484,45.8500,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,General Science,Female,examination,730,16,714,0,0,322,392,54.9020,54.9000,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,General Science,All,examination,2761,108,2653,2,1,1371,1281,48.2850,48.2800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Humanities,Male,examination,2017,141,1876,4,5,1343,528,28.1450,28.1400,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Humanities,Female,examination,2330,59,2271,2,1,1273,997,43.9014,43.9000,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Humanities,All,examination,4347,200,4147,6,6,2616,1525,36.7736,36.7700,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Medical Technology,Male,examination,48,4,44,0,0,25,19,43.1818,43.1800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Medical Technology,Female,examination,7,0,7,0,0,3,4,57.1429,57.1400,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Medical Technology,All,examination,55,4,51,0,0,28,23,45.0980,45.1000,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Pre-Engineering,Male,examination,2072,117,1955,0,0,775,1180,60.3581,60.3600,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Pre-Engineering,Female,examination,542,21,521,1,0,133,388,74.4722,74.4700,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Pre-Engineering,All,examination,2614,138,2476,1,0,908,1568,63.3279,63.3300,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Pre-Medical,Male,examination,746,49,697,0,0,177,520,74.6055,74.6100,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Pre-Medical,Female,examination,1710,78,1632,4,0,392,1240,75.9804,75.9800,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,Pre-Medical,All,examination,2456,127,2329,4,0,569,1760,75.5689,75.5700,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,Private,All,All,examination,13942,645,13297,16,10,6538,6749,50.7558,50.7600,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2015,All,All,All,examination,57242,846,56396,48,30,14910,41456,73.5088,73.5100,computed_from_counts,fbise_hssc2_2015,3
+FBISE,HSSC,II,2016,Regular,Commerce,Male,examination,2516,26,2490,1,2,925,1563,62.7711,62.7700,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Commerce,Female,examination,1317,10,1307,1,0,152,1155,88.3703,88.3700,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Commerce,All,examination,3833,36,3797,2,2,1077,2718,71.5828,71.5800,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,General Science,Male,examination,5695,47,5648,2,5,2384,3258,57.6841,57.6800,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,General Science,Female,examination,4517,11,4506,2,3,1019,3482,77.2747,77.2700,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,General Science,All,examination,10212,58,10154,4,8,3403,6740,66.3778,66.3800,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Humanities,Male,examination,1149,5,1144,0,1,513,630,55.0699,55.0700,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Humanities,Female,examination,6050,19,6031,4,2,1188,4837,80.2023,80.2000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Humanities,All,examination,7199,24,7175,4,3,1701,5467,76.1951,76.2000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Medical Technology,Male,examination,198,0,198,0,0,72,126,63.6364,63.6400,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Medical Technology,Female,examination,20,0,20,0,0,0,20,100.0000,100.0000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Medical Technology,All,examination,218,0,218,0,0,72,146,66.9725,66.9700,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Pre-Engineering,Male,examination,9235,30,9205,2,8,1186,8011,87.0288,87.0300,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Pre-Engineering,Female,examination,3374,10,3364,1,0,310,3054,90.7848,90.7800,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Pre-Engineering,All,examination,12609,40,12569,3,8,1496,11065,88.0341,88.0300,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Pre-Medical,Male,examination,2792,10,2782,0,1,294,2487,89.3961,89.4000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Pre-Medical,Female,examination,8579,27,8552,7,2,739,7808,91.3003,91.3000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,Pre-Medical,All,examination,11371,37,11334,7,3,1033,10295,90.8329,90.8300,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Regular,All,All,examination,45442,195,45247,20,24,8782,36431,80.5158,80.5200,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Commerce,Male,examination,1394,72,1322,3,2,784,536,40.5446,40.5400,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Commerce,Female,examination,334,6,328,0,0,125,203,61.8902,61.8900,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Commerce,All,examination,1728,78,1650,3,2,909,739,44.7879,44.7900,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,General Science,Male,examination,1928,116,1812,6,2,1117,693,38.2450,38.2500,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,General Science,Female,examination,649,20,629,0,0,327,302,48.0127,48.0100,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,General Science,All,examination,2577,136,2441,6,2,1444,995,40.7620,40.7600,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Humanities,Male,examination,1933,140,1793,3,3,1197,592,33.0173,33.0200,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Humanities,Female,examination,2360,59,2301,12,3,1125,1164,50.5867,50.5900,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Humanities,All,examination,4293,199,4094,15,6,2322,1756,42.8920,42.8900,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Medical Technology,Male,examination,54,4,50,0,0,31,19,38.0000,38.0000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Medical Technology,Female,examination,1,0,1,0,0,1,0,0.0000,0.0000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Medical Technology,All,examination,55,4,51,0,0,32,19,37.2549,37.2500,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Pre-Engineering,Male,examination,2088,160,1928,1,1,741,1186,61.5145,61.5100,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Pre-Engineering,Female,examination,513,17,496,0,0,140,356,71.7742,71.7700,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Pre-Engineering,All,examination,2601,177,2424,1,1,881,1542,63.6139,63.6100,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Pre-Medical,Male,examination,685,55,630,1,0,168,462,73.3333,73.3300,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Pre-Medical,Female,examination,1560,65,1495,2,1,303,1190,79.5987,79.6000,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,Pre-Medical,All,examination,2245,120,2125,3,1,471,1652,77.7412,77.7400,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,Private,All,All,examination,13499,714,12785,28,12,6059,6703,52.4286,52.4300,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2016,All,All,All,examination,58941,909,58032,48,36,14841,43134,74.3280,74.3300,computed_from_counts,fbise_hssc2_2016,3
+FBISE,HSSC,II,2017,Regular,Commerce,Male,examination,2568,17,2551,1,3,1181,1367,53.5868,53.5900,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Commerce,Female,examination,1443,4,1439,0,0,297,1142,79.3607,79.3600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Commerce,All,examination,4011,21,3990,1,3,1478,2509,62.8822,62.8800,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,General Science,Male,examination,5814,38,5776,8,4,2215,3557,61.5824,61.5800,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,General Science,Female,examination,4772,10,4762,3,0,1164,3598,75.5565,75.5600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,General Science,All,examination,10586,48,10538,11,4,3379,7155,67.8971,67.9000,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Humanities,Male,examination,1051,7,1044,3,1,515,528,50.5747,50.5700,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Humanities,Female,examination,6000,19,5981,10,2,1475,4504,75.3051,75.3100,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Humanities,All,examination,7051,26,7025,13,3,1990,5032,71.6299,71.6300,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Medical Technology,Male,examination,194,0,194,0,2,77,115,59.2784,59.2800,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Medical Technology,Female,examination,27,0,27,0,0,3,24,88.8889,88.8900,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Medical Technology,All,examination,221,0,221,0,2,80,139,62.8959,62.9000,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Pre-Engineering,Male,examination,9254,42,9212,6,4,1282,7926,86.0399,86.0400,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Pre-Engineering,Female,examination,3482,4,3478,3,1,337,3140,90.2818,90.2800,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Pre-Engineering,All,examination,12736,46,12690,9,5,1619,11066,87.2025,87.2000,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Pre-Medical,Male,examination,2914,14,2900,5,3,323,2574,88.7586,88.7600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Pre-Medical,Female,examination,8530,20,8510,6,1,636,7873,92.5147,92.5100,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,Pre-Medical,All,examination,11444,34,11410,11,4,959,10447,91.5600,91.5600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Regular,All,All,examination,46049,175,45874,45,21,9505,36348,79.2344,79.2300,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Commerce,Male,examination,954,38,916,23,1,620,295,32.2052,32.2100,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Commerce,Female,examination,266,4,262,6,0,134,128,48.8550,48.8500,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Commerce,All,examination,1220,42,1178,29,1,754,423,35.9083,35.9100,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,General Science,Male,examination,1673,94,1579,1,5,841,733,46.4218,46.4200,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,General Science,Female,examination,556,14,542,0,1,276,265,48.8930,48.8900,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,General Science,All,examination,2229,108,2121,1,6,1117,998,47.0533,47.0500,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Humanities,Male,examination,1865,159,1706,96,7,1227,472,27.6671,27.6700,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Humanities,Female,examination,2010,69,1941,60,2,1088,851,43.8434,43.8400,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Humanities,All,examination,3875,228,3647,156,9,2315,1323,36.2764,36.2800,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Medical Technology,Male,examination,56,4,52,0,0,32,20,38.4615,38.4600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Medical Technology,Female,examination,3,0,3,0,0,1,2,66.6667,66.6700,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Medical Technology,All,examination,59,4,55,0,0,33,22,40.0000,40.0000,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Pre-Engineering,Male,examination,1528,115,1413,3,4,515,894,63.2696,63.2700,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Pre-Engineering,Female,examination,432,24,408,0,0,110,298,73.0392,73.0400,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Pre-Engineering,All,examination,1960,139,1821,3,4,625,1192,65.4585,65.4600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Pre-Medical,Male,examination,819,61,758,0,0,99,659,86.9393,86.9400,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Pre-Medical,Female,examination,1838,113,1725,0,0,227,1498,86.8406,86.8400,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,Pre-Medical,All,examination,2657,174,2483,0,0,326,2157,86.8707,86.8700,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,Private,All,All,examination,12000,695,11305,189,20,5170,6115,54.0911,54.0900,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2017,All,All,All,examination,58049,870,57179,234,41,14675,42463,74.2633,74.2600,computed_from_counts,fbise_hssc2_2017,3
+FBISE,HSSC,II,2018,Regular,Commerce,Male,examination,2611,15,2596,0,6,1117,1473,56.7411,56.7400,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Commerce,Female,examination,1564,4,1560,0,1,240,1319,84.5513,84.5500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Commerce,All,examination,4175,19,4156,0,7,1357,2792,67.1800,67.1800,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,General Science,Male,examination,6168,38,6130,0,9,2065,4056,66.1664,66.1700,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,General Science,Female,examination,4636,16,4620,0,0,903,3717,80.4545,80.4500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,General Science,All,examination,10804,54,10750,0,9,2968,7773,72.3070,72.3100,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Humanities,Male,examination,1161,11,1150,0,2,571,577,50.1739,50.1700,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Humanities,Female,examination,6164,15,6149,0,0,1494,4655,75.7034,75.7000,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Humanities,All,examination,7325,26,7299,0,2,2065,5232,71.6811,71.6800,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Medical Technology,Male,examination,233,3,230,0,0,105,125,54.3478,54.3500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Medical Technology,Female,examination,32,0,32,0,0,2,30,93.7500,93.7500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Medical Technology,All,examination,265,3,262,0,0,107,155,59.1603,59.1600,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Pre-Engineering,Male,examination,8995,32,8963,0,10,900,8053,89.8471,89.8500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Pre-Engineering,Female,examination,3739,7,3732,0,0,259,3473,93.0600,93.0600,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Pre-Engineering,All,examination,12734,39,12695,0,10,1159,11526,90.7917,90.7900,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Pre-Medical,Male,examination,3154,14,3140,0,4,240,2896,92.2293,92.2300,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Pre-Medical,Female,examination,9568,33,9535,0,6,454,9075,95.1757,95.1800,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,Pre-Medical,All,examination,12722,47,12675,0,10,694,11971,94.4458,94.4500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Regular,All,All,examination,48025,188,47837,0,38,8350,39449,82.4655,82.4700,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Commerce,Male,examination,1167,50,1117,9,0,712,405,36.2578,36.2600,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Commerce,Female,examination,324,10,314,2,0,153,161,51.2739,51.2700,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Commerce,All,examination,1491,60,1431,11,0,865,566,39.5528,39.5500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,General Science,Male,examination,1484,70,1414,0,3,736,675,47.7369,47.7400,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,General Science,Female,examination,642,20,622,0,0,302,320,51.4469,51.4500,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,General Science,All,examination,2126,90,2036,0,3,1038,995,48.8703,48.8700,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Humanities,Male,examination,1932,133,1799,22,3,1270,526,29.2385,29.2400,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Humanities,Female,examination,2140,62,2078,9,7,1126,945,45.4764,45.4800,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Humanities,All,examination,4072,195,3877,31,10,2396,1471,37.9417,37.9400,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Medical Technology,Male,examination,68,3,65,0,0,36,29,44.6154,44.6200,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Medical Technology,Female,examination,3,0,3,0,0,0,3,100.0000,100.0000,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Medical Technology,All,examination,71,3,68,0,0,36,32,47.0588,47.0600,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Pre-Engineering,Male,examination,1491,80,1411,2,3,396,1012,71.7222,71.7200,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Pre-Engineering,Female,examination,419,30,389,0,0,87,302,77.6350,77.6300,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Pre-Engineering,All,examination,1910,110,1800,2,3,483,1314,73.0000,73.0000,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Pre-Medical,Male,examination,883,56,827,0,1,101,725,87.6663,87.6700,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Pre-Medical,Female,examination,1734,42,1692,1,1,131,1560,92.1986,92.2000,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,Pre-Medical,All,examination,2617,98,2519,1,2,232,2285,90.7106,90.7100,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,Private,All,All,examination,12287,556,11731,45,18,5050,6663,56.7982,56.8000,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2018,All,All,All,examination,60312,744,59568,45,56,13400,46112,77.4107,77.4100,computed_from_counts,fbise_hssc2_2018,3
+FBISE,HSSC,II,2020,Regular,Commerce,Male,no_exam_promotion_policy,2596,0,2596,165,0,33,2431,93.6441,93.6400,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Commerce,Female,no_exam_promotion_policy,1527,0,1527,19,0,6,1508,98.7557,98.7600,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Commerce,All,no_exam_promotion_policy,4123,0,4123,184,0,39,3939,95.5372,95.5400,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,General Science,Male,no_exam_promotion_policy,8623,0,8623,547,0,56,8076,93.6565,93.6600,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,General Science,Female,no_exam_promotion_policy,5267,0,5267,120,0,22,5147,97.7217,97.7200,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,General Science,All,no_exam_promotion_policy,13890,0,13890,667,0,78,13223,95.1980,95.2000,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Humanities,Male,no_exam_promotion_policy,2408,0,2408,435,0,14,1973,81.9352,81.9400,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Humanities,Female,no_exam_promotion_policy,7976,0,7976,488,0,3,7488,93.8816,93.8800,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Humanities,All,no_exam_promotion_policy,10384,0,10384,923,0,17,9461,91.1113,91.1100,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Medical Technology,Male,no_exam_promotion_policy,175,0,175,28,0,0,147,84.0000,84.0000,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Medical Technology,Female,no_exam_promotion_policy,38,0,38,3,0,0,35,92.1053,92.1100,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Medical Technology,All,no_exam_promotion_policy,213,0,213,31,0,0,182,85.4460,85.4500,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Pre-Engineering,Male,no_exam_promotion_policy,10459,0,10459,179,0,34,10280,98.2886,98.2900,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Pre-Engineering,Female,no_exam_promotion_policy,4425,0,4425,41,0,2,4384,99.0734,99.0700,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Pre-Engineering,All,no_exam_promotion_policy,14884,0,14884,220,0,36,14664,98.5219,98.5200,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Pre-Medical,Male,no_exam_promotion_policy,4333,0,4333,139,0,16,4194,96.7921,96.7900,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Pre-Medical,Female,no_exam_promotion_policy,11685,0,11685,233,0,17,11452,98.0060,98.0100,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,Pre-Medical,All,no_exam_promotion_policy,16018,0,16018,372,0,33,15646,97.6776,97.6800,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Regular,All,All,no_exam_promotion_policy,59512,0,59512,2397,0,203,57115,95.9722,95.9700,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Commerce,Male,no_exam_promotion_policy,965,0,965,197,0,9,768,79.5855,79.5900,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Commerce,Female,no_exam_promotion_policy,285,0,285,38,0,3,247,86.6667,86.6700,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Commerce,All,no_exam_promotion_policy,1250,0,1250,235,0,12,1015,81.2000,81.2000,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,General Science,Male,no_exam_promotion_policy,1562,0,1562,149,0,4,1413,90.4609,90.4600,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,General Science,Female,no_exam_promotion_policy,563,0,563,39,0,0,524,93.0728,93.0700,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,General Science,All,no_exam_promotion_policy,2125,0,2125,188,0,4,1937,91.1529,91.1500,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Humanities,Male,no_exam_promotion_policy,1634,0,1634,921,0,6,713,43.6353,43.6400,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Humanities,Female,no_exam_promotion_policy,2011,0,2011,638,0,6,1373,68.2745,68.2700,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Humanities,All,no_exam_promotion_policy,3645,0,3645,1559,0,12,2086,57.2291,57.2300,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Medical Technology,Male,no_exam_promotion_policy,51,0,51,9,0,0,42,82.3529,82.3500,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Medical Technology,All,no_exam_promotion_policy,51,0,51,9,0,0,42,82.3529,82.3500,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Pre-Engineering,Male,no_exam_promotion_policy,1242,0,1242,205,0,2,1037,83.4944,83.4900,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Pre-Engineering,Female,no_exam_promotion_policy,422,0,422,168,0,0,254,60.1896,60.1900,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Pre-Engineering,All,no_exam_promotion_policy,1664,0,1664,373,0,2,1291,77.5841,77.5800,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Pre-Medical,Male,no_exam_promotion_policy,1008,0,1008,35,0,1,973,96.5278,96.5300,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Pre-Medical,Female,no_exam_promotion_policy,2227,0,2227,51,0,6,2176,97.7099,97.7100,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,Pre-Medical,All,no_exam_promotion_policy,3235,0,3235,86,0,7,3149,97.3416,97.3400,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,Private,All,All,no_exam_promotion_policy,11970,0,11970,2450,0,37,9520,79.5322,79.5300,computed_from_counts,fbise_hssc2_2020,2
+FBISE,HSSC,II,2020,All,All,All,no_exam_promotion_policy,71482,0,71482,4847,0,240,66635,93.2193,93.2200,computed_from_counts,fbise_hssc2_2020,2
+FBISE,SSC,II,2013,All,All,All,examination,,,,,,,,77.6700,77.6700,published_only,fbise_result_statistics_2013_2017,1
+FBISE,SSC,II,2014,All,All,All,examination,,,,,,,,77.2500,77.2500,published_only,fbise_result_statistics_2013_2017,1
+FBISE,SSC,II,2015,Regular,Humanities,Male,examination,1395,4,1391,0,3,585,803,57.7283,57.7300,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Regular,Humanities,Female,examination,6907,12,6895,9,0,804,6090,88.3249,88.3200,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Regular,Humanities,All,examination,8302,16,8286,9,3,1389,6893,83.1885,83.1900,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Regular,Science,Male,examination,28477,45,28432,31,9,2816,25607,90.0640,90.0600,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Regular,Science,Female,examination,21077,29,21048,13,2,923,20123,95.6053,95.6100,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Regular,Science,All,examination,49554,74,49480,44,11,3739,45730,92.4212,92.4200,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Regular,All,All,examination,57856,90,57766,53,14,5128,52623,91.0968,91.1000,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,Humanities,Male,examination,3364,120,3244,11,11,2479,754,23.2429,23.2400,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,Humanities,Female,examination,3258,70,3188,6,0,1718,1469,46.0790,46.0800,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,Humanities,All,examination,6622,190,6432,17,11,4197,2223,34.5616,34.5600,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,Science,Male,examination,11431,198,11233,44,23,7285,3925,34.9417,34.9400,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,Science,Female,examination,3529,45,3484,20,1,1737,1746,50.1148,50.1100,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,Science,All,examination,14960,243,14717,64,24,9022,5671,38.5337,38.5300,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,Private,All,All,examination,21582,433,21149,81,35,13219,7894,37.3256,37.3300,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2015,All,All,All,examination,79438,523,78915,134,49,18347,60517,76.6863,76.6900,computed_from_counts,fbise_ssc2_2015,3
+FBISE,SSC,II,2016,Regular,Humanities,Male,examination,1338,5,1333,0,2,571,760,57.0143,57.0100,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Regular,Humanities,Female,examination,6831,15,6816,2,0,1118,5697,83.5827,83.5800,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Regular,Humanities,All,examination,8169,20,8149,2,2,1689,6457,79.2367,79.2400,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Regular,Science,Male,examination,31164,43,31121,4,8,2766,28347,91.0864,91.0900,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Regular,Science,Female,examination,24471,30,24441,8,4,1160,23277,95.2375,95.2400,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Regular,Science,All,examination,55635,73,55562,12,12,3926,51624,92.9124,92.9100,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Regular,All,All,examination,63804,93,63711,14,14,5615,58081,91.1632,91.1600,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,Humanities,Male,examination,2904,98,2806,30,1,2029,776,27.6550,27.6600,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,Humanities,Female,examination,2970,67,2903,33,3,1690,1210,41.6810,41.6800,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,Humanities,All,examination,5874,165,5709,63,4,3719,1986,34.7872,34.7900,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,Science,Male,examination,10106,205,9901,109,11,5856,4034,40.7434,40.7400,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,Science,Female,examination,3613,40,3573,24,5,1779,1789,50.0700,50.0700,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,Science,All,examination,13719,245,13474,133,16,7635,5823,43.2166,43.2200,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,Private,All,All,examination,19593,410,19183,196,20,11354,7809,40.7079,40.7100,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2016,All,All,All,examination,83397,503,82894,210,34,16969,65890,79.4871,79.4900,computed_from_counts,fbise_ssc2_2016,3
+FBISE,SSC,II,2017,Regular,Humanities,Male,examination,1452,8,1444,19,1,480,963,66.6898,66.6900,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Regular,Humanities,Female,examination,7014,28,6986,18,0,634,6352,90.9247,90.9200,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Regular,Humanities,All,examination,8466,36,8430,37,1,1114,7315,86.7734,86.7700,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Regular,Science,Male,examination,34678,48,34630,45,16,3342,31272,90.3032,90.3000,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Regular,Science,Female,examination,25804,34,25770,30,4,1154,24612,95.5064,95.5100,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Regular,Science,All,examination,60482,82,60400,75,20,4496,55884,92.5232,92.5200,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Regular,All,All,examination,68948,118,68830,112,21,5610,63199,91.8190,91.8200,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,Humanities,Male,examination,2152,80,2072,27,8,1360,704,33.9768,33.9800,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,Humanities,Female,examination,2546,42,2504,24,1,1118,1385,55.3115,55.3100,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,Humanities,All,examination,4698,122,4576,51,9,2478,2089,45.6512,45.6500,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,Science,Male,examination,8578,168,8410,94,19,4575,3816,45.3746,45.3700,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,Science,Female,examination,3374,50,3324,39,6,1453,1865,56.1071,56.1100,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,Science,All,examination,11952,218,11734,133,25,6028,5681,48.4149,48.4100,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,Private,All,All,examination,16650,340,16310,184,34,8506,7770,47.6395,47.6400,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2017,All,All,All,examination,85598,458,85140,296,55,14116,70969,83.3556,83.3600,computed_from_counts,fbise_ssc2_2017,3
+FBISE,SSC,II,2018,Regular,Humanities,Male,examination,1431,8,1423,1,1,506,916,64.3710,64.3700,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Regular,Humanities,Female,examination,7209,23,7186,0,2,612,6572,91.4556,91.4600,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Regular,Humanities,All,examination,8640,31,8609,1,3,1118,7488,86.9787,86.9800,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Regular,Science,Male,examination,37483,55,37428,9,24,3672,33732,90.1250,90.1300,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Regular,Science,Female,examination,27817,39,27778,7,3,1339,26436,95.1688,95.1700,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Regular,Science,All,examination,65300,94,65206,16,27,5011,60168,92.2737,92.2700,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Regular,All,All,examination,73940,125,73815,17,30,6129,67656,91.6562,91.6600,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Humanities,Male,examination,2015,74,1941,23,7,1286,648,33.3849,33.3800,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Humanities,Female,examination,2216,33,2183,33,5,993,1185,54.2831,54.2800,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Humanities,All,examination,4231,107,4124,56,12,2279,1833,44.4471,44.4500,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Science,Male,examination,8572,165,8407,100,17,4708,3682,43.7968,43.8000,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Science,Female,examination,3141,46,3095,54,4,1433,1658,53.5703,53.5700,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Science,All,examination,11713,211,11502,154,21,6141,5340,46.4267,46.4300,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Technical,Male,examination,2,0,2,1,0,2,0,0.0000,0.0000,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,Technical,All,examination,2,0,2,1,0,2,0,0.0000,0.0000,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,Private,All,All,examination,15946,318,15628,211,33,8422,7173,45.8984,45.9000,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2018,All,All,All,examination,89886,443,89443,228,63,14551,74829,83.6611,83.6600,computed_from_counts,fbise_ssc2_2018,3
+FBISE,SSC,II,2019,Regular,Humanities,Male,examination,1444,5,1439,7,3,469,967,67.1994,67.2000,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Regular,Humanities,Female,examination,6974,13,6961,0,2,748,6211,89.2257,89.2300,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Regular,Humanities,All,examination,8418,18,8400,7,5,1217,7178,85.4524,85.4500,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Regular,Science,Male,examination,35879,73,35806,66,26,3389,32391,90.4625,90.4600,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Regular,Science,Female,examination,27818,47,27771,31,2,1212,26557,95.6285,95.6300,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Regular,Science,All,examination,63697,120,63577,97,28,4601,58948,92.7191,92.7200,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Regular,All,All,examination,72115,138,71977,104,33,5818,66126,91.8710,91.8700,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,Humanities,Male,examination,2072,82,1990,41,3,1300,687,34.5226,34.5200,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,Humanities,Female,examination,2194,40,2154,43,3,994,1157,53.7140,53.7100,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,Humanities,All,examination,4266,122,4144,84,6,2294,1844,44.4981,44.5000,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,Science,Male,examination,7875,131,7744,143,6,4278,3460,44.6798,44.6800,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,Science,Female,examination,3300,51,3249,75,3,1473,1773,54.5706,54.5700,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,Science,All,examination,11175,182,10993,218,9,5751,5233,47.6030,47.6000,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,Private,All,All,examination,15441,304,15137,302,15,8045,7077,46.7530,46.7500,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2019,All,All,All,examination,87556,442,87114,406,48,13863,73203,84.0313,84.0300,computed_from_counts,fbise_ssc2_2019,3
+FBISE,SSC,II,2020,Regular,Humanities,Male,no_exam_promotion_policy,1508,0,1508,196,0,94,1312,87.0027,87.0000,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Regular,Humanities,Female,no_exam_promotion_policy,6798,0,6798,158,0,114,6640,97.6758,97.6800,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Regular,Humanities,All,no_exam_promotion_policy,8306,0,8306,354,0,208,7952,95.7380,95.7400,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Regular,Science,Male,no_exam_promotion_policy,39738,0,39738,941,0,414,38797,97.6320,97.6300,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Regular,Science,Female,no_exam_promotion_policy,29961,0,29961,519,0,350,29442,98.2677,98.2700,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Regular,Science,All,no_exam_promotion_policy,69699,0,69699,1460,0,764,68239,97.9053,97.9100,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Regular,All,All,no_exam_promotion_policy,78005,0,78005,1814,0,972,76191,97.6745,97.6700,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,Humanities,Male,no_exam_promotion_policy,1884,0,1884,1030,0,5,854,45.3291,45.3300,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,Humanities,Female,no_exam_promotion_policy,2021,0,2021,794,0,11,1227,60.7125,60.7100,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,Humanities,All,no_exam_promotion_policy,3905,0,3905,1824,0,16,2081,53.2907,53.2900,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,Science,Male,no_exam_promotion_policy,7927,0,7927,3359,0,48,4568,57.6258,57.6300,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,Science,Female,no_exam_promotion_policy,3467,0,3467,1156,0,20,2311,66.6571,66.6600,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,Science,All,no_exam_promotion_policy,11394,0,11394,4515,0,68,6879,60.3739,60.3700,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,Private,All,All,no_exam_promotion_policy,15299,0,15299,6339,0,84,8960,58.5659,58.5700,computed_from_counts,fbise_ssc2_2020,3
+FBISE,SSC,II,2020,All,All,All,no_exam_promotion_policy,93304,0,93304,8153,0,1056,85151,91.2619,91.2600,computed_from_counts,fbise_ssc2_2020,3
