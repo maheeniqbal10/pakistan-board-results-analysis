@@ -141,6 +141,9 @@ silently using a different document.
 | [`docs/findings.md`](docs/findings.md) | Findings with numbers and caveats |
 | [`docs/CODE_WALKTHROUGH.md`](docs/CODE_WALKTHROUGH.md) | Plain-language explanation of every file |
 
+Dataset: https://www.kaggle.com/datasets/maheeniqbal10/pakistan-board-results-analysis
+Notebook: https://www.kaggle.com/code/maheeniqbal10/notebook1d6b6b19fb
+
 ## License
 
 Code: MIT — see [`LICENSE`](LICENSE). Data: © FBISE; see
