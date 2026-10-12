@@ -9,8 +9,8 @@ for its final-year **SSC-II (Matric)** and **HSSC-II (Intermediate)** annual
 examinations, 2013–2020: how pass rates changed over time, and how they differ by
 gender, subject group and candidate type.
 
-**Kaggle notebook:** not yet published. The notebook is in
-[`notebooks/analysis.ipynb`](notebooks/analysis.ipynb).
+Kaggle notebook: Published at https://www.kaggle.com/code/maheeniqbal10/notebook1d6b6b19fb
+Local copy: notebooks/analysis.ipynb.
 
 ![Overall pass rate by year](figures/q1_overall_trend.png)
 
